@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733986752 source:c:\users\hp\onedrive\masaüstü\avp\c ornekleri\lab12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

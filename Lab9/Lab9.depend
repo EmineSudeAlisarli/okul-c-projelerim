@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732207816 source:c:\users\hp\onedrive\masaüstü\avp\c ornekleri\lab9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
